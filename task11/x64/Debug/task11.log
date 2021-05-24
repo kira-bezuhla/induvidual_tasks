@@ -1,0 +1,3 @@
+﻿  task11.cpp
+C:\Users\rodle\source\repos\SD1_Bezuhla_induvidual_tasks\task11\task11.cpp(28): warning C4715: 'Recurs': not all control paths return a value
+  task11.vcxproj -> C:\Users\rodle\source\repos\SD1_Bezuhla_induvidual_tasks\x64\Debug\task11.exe
